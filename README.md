@@ -2,6 +2,9 @@
 
 A test collection of open source information related to writing. Includes Hacktoberfest participants seeking documentation help, technical writing resources, etc.
 
+[Hacktoberfest2018](/hacktoberfest2018.md)
+
 [Resources](/resources.md)
 
-[Hacktoberfest2018](/hacktoberfest2018.md)
+[Style Guides](/styleguides.md)
+
