@@ -1,6 +1,7 @@
 # Hacktoberfest 2018
-The 5th annual [Hacktoberfest](https://hacktoberfest.digitalocean.com) event hosted by DigitalOcean in partnership with GitHub
-and Twilio. This page contains a collection of sites seeking (or open to) documentation contributions. If you're interested in contributing to a project, make sure to review the contribition guidelines and [style guide](/styleguides.md).
+The 5th annual [Hacktoberfest](https://hacktoberfest.digitalocean.com) event hosted by DigitalOcean in partnership with GitHub and Twilio. The OS Community is made up of more than just developers. You matter too. The most useful project also has well written documentation and related supplemental materials.
+
+This page contains a collection of projects seeking (or open to) documentation contributions. If you're interested in contributing to a project, make sure to review the contribition guidelines and [style guide](/styleguides.md). Want something more specific? Try searching Github using the Hacktoberfest label for open issues.
 
 ---
 
