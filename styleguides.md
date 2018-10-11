@@ -11,3 +11,8 @@ Review the README content to understand how to contribute - make sure to review 
 [https://github.com/google/styleguide](https://github.com/google/styleguide)
 
 A collection of style guides for Google-originated open-source projects.
+
+## Home Assistant
+[https://developers.home-assistant.io/docs/en/documentation_standards.html](https://developers.home-assistant.io/docs/en/documentation_standards.html)
+
+The documentation standards for contributing to the Home Assistant home automation tool documentation.
