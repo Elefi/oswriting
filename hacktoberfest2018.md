@@ -2,10 +2,12 @@
 The 5th annual [Hacktoberfest](https://hacktoberfest.digitalocean.com) event hosted by DigitalOcean in partnership with GitHub
 and Twilio. This page contains a collection of sites seeking (or open to) documentation contributions. If you're interested in contributing to a project, make sure to review the contribition guidelines and [style guide](/styleguides.md).
 
+---
+
 ## Title
 [URL](URL)
 
-Description
+Description. Quotes should be shown in italics.  
 
 **Writing category:** List all that apply (Documentation, blog posts, guides, etc.)
 
@@ -13,18 +15,22 @@ Description
 
 **Difficulty Level:** Will the contributor need little to no experience (*Beginner*), some experience (*Entry level*), or a lot of experience (*Knowledgable*) with the topic(s)? List all that apply.
 
+*Keep this list in alphabetical order. Make sure to include the horizontal line above and below each entry.*
+
 ___
 
 ## The CPython Developer's Guide
 [https://github.com/python/devguide](https://github.com/python/devguide)
 
-From the website: "This guide is a comprehensive resource for contributing to Python – for both new and experienced contributors." Python focused. 
+From the website: *"This guide is a comprehensive resource for contributing to Python – for both new and experienced contributors."* Python focused. 
 
 **Writing category:** 
 
-**Coding language(s):**
+**Coding language(s):** 
 
 **Difficulty Level:**
+
+---
 
 ## freeCodeCamp Guide
 [https://github.com/freeCodeCamp/guide](https://github.com/freeCodeCamp/guide)
@@ -38,6 +44,8 @@ learning to code. Contribute by writing or editing guide articles on various cod
 
 **Difficulty Level:**
 
+---
+
 ## Home Assistant
 [https://www.home-assistant.io/blog/2018/09/30/hacktoberfest/](https://www.home-assistant.io/blog/2018/09/30/hacktoberfest/)
 
@@ -49,13 +57,20 @@ An open source home automation tool. Make sure to completely read the blog post 
 
 **Difficulty Level:**
 
+---
+
 ## Jenkins
 [https://jenkins.io/blog/2018/10/01/hacktoberfest/](https://jenkins.io/blog/2018/10/01/hacktoberfest/)
 
-From their website: "The leading open source automation server, Jenkins provides hundreds of plugins to support building, deploying and automating any project." Writing opportunities include blog posts and documentation. Covers a range of coding languages and topics.
+From their website: *"The leading open source automation server, Jenkins provides hundreds of plugins to support building, deploying and automating any project."* Writing opportunities include blog posts and documentation. Covers a range of coding languages and topics.
 
 **Writing category:** 
 
 **Coding language(s):**
 
 **Difficulty Level:**
+
+---
+
+
+
