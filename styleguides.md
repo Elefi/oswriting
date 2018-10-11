@@ -2,6 +2,8 @@
 
 A style guide helps to ensure that writing and style standards are met consistently throughout the repo. They might be simple like freeCodeCamp's [Article Style Guide](https://github.com/freeCodeCamp/guide/blob/master/CONTRIBUTING.md#article-style-guide), or more detailed like [Google Open Source Style Guide](https://github.com/google/styleguide). If you want to contribute to a project, make sure to look for a style guide first to ensure contribution standards are being met.
 
+---
+
 ## freeCodeCamp
 [https://github.com/freeCodeCamp/guide](https://github.com/freeCodeCamp/guide)
 
