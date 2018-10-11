@@ -2,16 +2,16 @@
 The 5th annual [Hacktoberfest](https://hacktoberfest.digitalocean.com) event hosted by DigitalOcean in partnership with GitHub
 and Twilio. This page contains a collection of sites seeking (or open to) documentation contributions. If you're interested in contributing to a project, make sure to review the contribition guidelines and [style guide](/styleguides.md).
 
->## Entry Template
->[URL](URL)
->
->Description
->
->**Writing category:** List all that apply (Documentation, blog posts, guides, etc.)
->
->**Coding language(s):** List all that apply (HTML, PHP, Python, etc.)
->
->**Difficulty Level:** Will the contributor need little to no experience (*Beginner*), some experience (*Entry level*), or a lot of experience (*Knowledgable*) with the topic(s)? List all that apply.
+    ## Title
+    [URL](URL)
+
+    Description
+
+    **Writing category:** List all that apply (Documentation, blog posts, guides, etc.)
+
+    **Coding language(s):** List all that apply (HTML, PHP, Python, etc.)
+
+    **Difficulty Level:** Will the contributor need little to no experience (*Beginner*), some experience (*Entry level*), or a lot of experience (*Knowledgable*) with the topic(s)? List all that apply.
 
 ## The CPython Developer's Guide
 [https://github.com/python/devguide](https://github.com/python/devguide)
