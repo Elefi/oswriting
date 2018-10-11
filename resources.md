@@ -1,6 +1,8 @@
 # Resources
 A collection of writing resources of interest to the open source community. General technical writing, documentation, blog posts, etc.
 
+---
+
 ## Write the Docs 
 [https://www.writethedocs.org/](https://www.writethedocs.org/)
 
