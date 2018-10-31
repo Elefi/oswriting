@@ -4,7 +4,11 @@ New to open source? Here are some resources for getting started with contributin
 
 ---
 
-## First Timers Only
+## Websites
+
+---
+
+### First Timers Only
 
 [https://www.firsttimersonly.com/](https://www.firsttimersonly.com/)
 
@@ -12,7 +16,7 @@ A collection of information and resources for open source new contributors.
 
 ---
 
-## Up For Grabs
+### Up For Grabs
 
 [https://up-for-grabs.net/#/](https://up-for-grabs.net/#/)
 
