@@ -4,6 +4,8 @@ A test collection of open source information related to writing. Essentially, th
 
 ---
 
+[Getting Started](/gettingstarted.md)
+
 [Hacktoberfest2018](/hacktoberfest2018.md)
 
 [Projects](/projects.md)
@@ -11,4 +13,5 @@ A test collection of open source information related to writing. Essentially, th
 [Resources](/resources.md)
 
 [Style Guides](/styleguides.md)
+
 
