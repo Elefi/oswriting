@@ -4,17 +4,17 @@ A style guide helps to ensure that writing and style standards are met consisten
 
 ---
 
-## freeCodeCamp
+### freeCodeCamp
 [https://github.com/freeCodeCamp/guide](https://github.com/freeCodeCamp/guide)
 
 Review the README content to understand how to contribute - make sure to review the section titled *What Can I Write About* to find the style guide details.
 
-## Google OS Style Guides
+### Google OS Style Guides
 [https://github.com/google/styleguide](https://github.com/google/styleguide)
 
 A collection of style guides for Google-originated open-source projects.
 
-## Home Assistant
+### Home Assistant
 [https://developers.home-assistant.io/docs/en/documentation_standards.html](https://developers.home-assistant.io/docs/en/documentation_standards.html)
 
 The documentation standards for contributing to the Home Assistant home automation tool documentation.
