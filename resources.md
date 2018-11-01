@@ -1,11 +1,8 @@
 # Resources
 A collection of writing resources and articles of interest to the open source community and #Hacktoberfest. General technical writing, documentation, blog posts, etc.
 
----
-
 ## Articles
 
----
 ### A First Timers Guide to an Open Source Project
 [https://auth0.com/blog/a-first-timers-guide-to-an-open-source-project/](https://auth0.com/blog/a-first-timers-guide-to-an-open-source-project/)
 #### by Luke Oliff
