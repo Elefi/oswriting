@@ -22,15 +22,13 @@ October 17, 2018
 #### by Stephanie Morillo
 September 28, 2018
 
-
-
 ---
 
 ## Websites
-
----
 
 ### Write the Docs 
 [https://www.writethedocs.org/](https://www.writethedocs.org/)
 
 This is probably the largest, most active, online community for people interested in documentation. They have a Slack community, events, resources, and more.
+
+---
