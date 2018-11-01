@@ -6,8 +6,6 @@ New to open source? Here are some resources for getting started with contributin
 
 ## Websites
 
----
-
 ### First Timers Only
 
 [https://www.firsttimersonly.com/](https://www.firsttimersonly.com/)
