@@ -6,7 +6,7 @@ A test collection of open source information related to writing. Essentially, th
 
 [Getting Started](/gettingstarted.md)
 
-[Hacktoberfest2018](/hacktoberfest2018.md)
+[Hacktoberfest2019](/hacktoberfest2019.md)
 
 [Projects](/projects.md)
 
