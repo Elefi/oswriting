@@ -10,6 +10,12 @@ September 24, 2018
 
 ---
 
+### How to Contribute to Open Source
+[https://opensource.guide/how-to-contribute/](https://opensource.guide/how-to-contribute/)
+#### by Open Source Guides
+
+---
+
 ### Documentation as an Open Source Practice
 [https://blog.digitalocean.com/documentation-as-an-open-source-practice/](https://blog.digitalocean.com/documentation-as-an-open-source-practice/)
 #### by Lisa Tagliaferri
