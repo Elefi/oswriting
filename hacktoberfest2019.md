@@ -37,6 +37,21 @@ Open source chat tool.
 
 ___
 
+## EBWiki
+[https://github.com/EBWiki/EBWiki](https://github.com/EBWiki/EBWiki)
+
+*E[EBWiki.org](BWiki.org) is a site dedicated to documenting instances where people of color are killed by law enforcement officers during routine interactions.* 
+
+**Writing category:** Documentation, Guide
+
+**Knowledge:** Ruby 2.5.5, Rails 5.0.7, Elasticsearch, Postgres 9.4 or higher, Redis, AWS S3, NodeJS
+
+**Difficulty Level:** Beginner to Knowledgable
+
+**Code of Conduct:** [https://github.com/EBWiki/EBWiki/blob/master/docs/CODE_OF_CONDUCT.md](https://github.com/EBWiki/EBWiki/blob/master/docs/CODE_OF_CONDUCT.md)
+
+___
+
 ## Jenkins
 [https://jenkins.io/blog/2019/10/01/hacktoberfest/](https://jenkins.io/blog/2019/10/01/hacktoberfest/)
 
