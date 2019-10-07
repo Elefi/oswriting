@@ -3,6 +3,8 @@ The 6th annual [Hacktoberfest](https://hacktoberfest.digitalocean.com) event hos
 
 This page contains a collection of projects seeking (or open to) documentation contributions. If you're interested in contributing to a project, make sure to review the contribition guidelines and [style guide](/styleguides.md). Want something more specific? Try searching Github using the Hacktoberfest label for open issues.
 
+Take note that preference is given to projects that have a code of conduct and clear information for contributors. If you wish to add to this list, submit a PR and make sure to utilize the format displayed below. Not all fields will be applicable, but incomplete submissions may not be accepted.
+
 ---
 
 ## Title
