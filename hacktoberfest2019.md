@@ -21,3 +21,46 @@ Description. Quotes should be shown in italics.
 *Keep this list in alphabetical order. Make sure to include the horizontal line above and below each entry.*
 
 ___
+
+## Jenkins
+[https://jenkins.io/blog/2019/10/01/hacktoberfest/](https://jenkins.io/blog/2019/10/01/hacktoberfest/)
+
+From their website: "The leading open source automation server, Jenkins provides hundreds of plugins to support building, deploying and automating any project." Writing opportunities include blog posts and documentation. Covers a range of coding languages and topics. 
+
+**Writing category:** Blog, documentation
+
+**Knowledge:** 
+
+**Difficulty Level:** Entry level to Knowledgeable
+
+**Code of Conduct:** [https://jenkins.io/project/conduct/](https://jenkins.io/project/conduct/)
+
+___
+
+## opsdroid
+[https://github.com/opsdroid/opsdroid/issues](https://github.com/opsdroid/opsdroid/issues)
+
+From the website: *"An open source python chat-ops bot framework"*  
+
+**Writing category:** List all that apply (Documentation, blog posts, guides, etc.)
+
+**Knowledge:** Python
+
+**Difficulty Level:** Entry level to Knowledgeable
+
+**Code of Conduct:** [https://github.com/opsdroid/opsdroid/blob/master/CODE_OF_CONDUCT.md](https://github.com/opsdroid/opsdroid/blob/master/CODE_OF_CONDUCT.md)
+
+---
+
+## Umbraco
+[https://umbraco.com/blog/hacktoberfest-2019/](https://umbraco.com/blog/hacktoberfest-2019/)
+
+Umbraco is an open source content management system.  
+
+**Writing category:** Documentation
+
+**Knowledge:** 
+
+**Difficulty Level:** Entry level to Knowledgeable
+
+**Code of Conduct:** [https://github.com/umbraco/Umbraco-CMS/blob/dev-v7/.github/CO
