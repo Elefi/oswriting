@@ -22,6 +22,21 @@ Description. Quotes should be shown in italics.
 
 ___
 
+## chatwoot
+[https://docs.chatwoot.com](https://docs.chatwoot.com)
+
+Open source chat tool.  
+
+**Writing category:** Documentation
+
+**Knowledge:** Ruby, JavaScript
+
+**Difficulty Level:** Entry level to knowledgable
+
+**Code of Conduct:** [https://github.com/chatwoot/chatwoot/blob/master/CODE_OF_CONDUCT.md](https://github.com/chatwoot/chatwoot/blob/master/CODE_OF_CONDUCT.md)
+
+___
+
 ## Jenkins
 [https://jenkins.io/blog/2019/10/01/hacktoberfest/](https://jenkins.io/blog/2019/10/01/hacktoberfest/)
 
