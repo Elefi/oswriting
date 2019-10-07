@@ -84,6 +84,21 @@ From their website: "The leading open source automation server, Jenkins provides
 
 ___
 
+## Ladybug
+[https://github.com/ladybug-tools/ladybug](https://github.com/ladybug-tools/ladybug)
+
+*Ladybug is a Python library to load, analyze and modify EneregyPlus Weather files (epw). You can download epw files from EPWMap.*  
+
+**Writing category:** Documentation, Editing
+
+**Knowledge:** Python
+
+**Difficulty Level:** Beginner to Knowledgable
+
+**Code of Conduct:** [https://github.com/ladybug-tools/contributing/blob/master/CODE-OF-CONDUCT.md](https://github.com/ladybug-tools/contributing/blob/master/CODE-OF-CONDUCT.md)
+
+___
+
 ## opsdroid
 [https://github.com/opsdroid/opsdroid/issues](https://github.com/opsdroid/opsdroid/issues)
 
