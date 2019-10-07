@@ -52,6 +52,22 @@ From the website: *"An open source python chat-ops bot framework"*
 
 ---
 
+## Tech writer toolkit
+[https://techwritertoolkit.com/](https://techwritertoolkit.com/)
+
+From the website – *Consultant and freelance tech writers often work alone. They create documents and tools to help their work, including contracts, workflows, email templates and more. This site started as a place to collate these resources, bringing together the tools and experience of a diverse range of consultants.*  
+
+**Writing category:** Documentation
+
+**Knowledge:** 
+
+**Difficulty Level:** Beginner to Knowledgable
+
+**Code of Conduct:** N/A
+
+___
+
+
 ## Umbraco
 [https://umbraco.com/blog/hacktoberfest-2019/](https://umbraco.com/blog/hacktoberfest-2019/)
 
